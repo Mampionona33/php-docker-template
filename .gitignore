@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+## My personnal setup
+# Ignore dist "output webpack"
+dist/
+
+# Ignore mysql-data : local mysql data for this project
+mysql-data/
