@@ -31,7 +31,7 @@ services:
       - 3307:3306/tcp
     environment:
       - MYSQL_ROOT_PASSWORD=pass
-      - MYSQL_DATABASE=mini_project_class
+      - MYSQL_DATABASE=project_data_pase
     volumes:
       - ./mysql-data:/var/lib/mysql
 
