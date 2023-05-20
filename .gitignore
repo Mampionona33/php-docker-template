@@ -133,6 +133,5 @@ dist
 ## My personnal setup
 # Ignore dist "output webpack"
 dist/
-
 # Ignore mysql-data : local mysql data for this project
 mysql-data/
